@@ -17,7 +17,7 @@ const Navbar = () => {
             <Link to="/">
                 <p className='title text-size-large'>
                   <img src='../../logo192.png' style={{width:'25px', margin:'7px'}} alt=""/>
-                  colors
+                  ShadeBase
                 </p>
             </Link>
             <nav>
