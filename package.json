@@ -34,7 +34,7 @@
     "timeago.js": "^4.0.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://jamiespencerbswd.github.io/Capstone_D_Spencer",
+  "homepage": "https://jamiespencerbswd.github.io/ShadeBase",
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
